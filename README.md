@@ -3,7 +3,9 @@
 
 A time block selection component based on Canvas, designed for Vue 3 + Ant Design Vue. It supports interactive time range selection, dragging, and right-click deletion.
 
-![preview](./assets/demo.gif)
+![preview](./assets/demo.png)
+
+![TimeBar Demo](https://imgur.com/a/0SVGpBM)
 
 ## ✨ Features
 
