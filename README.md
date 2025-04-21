@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vue Time Bar ⏱️
 
 一个基于 Canvas 的时间段选择组件，适用于 Vue3 + Ant Design Vue，支持鼠标选择、拖拽、右键删除时间块。
@@ -32,3 +33,7 @@ defaultValue	TimeBarItems	初始时间段
 readonly	boolean	是否只读
 reservedTimes	TimeBarItems	已预约时间段
 unavailableTimes	TimeBarItems	不可用时间段
+=======
+# vue-time-bar
+A Vue3 time selection bar component for interactive time block scheduling.
+>>>>>>> 8befdaa3b61dc48e2baa14fdbe164adfc028dd26
