@@ -5,8 +5,6 @@ A time block selection component based on Canvas, designed for Vue 3 + Ant Desig
 
 ![preview](./assets/demo.png)
 
-![TimeBar Demo](https://imgur.com/a/0SVGpBM)
-
 ## ✨ Features
 
 - Time block selection in 30-minute increments
